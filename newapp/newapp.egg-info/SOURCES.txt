@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+newapp/__init__.py
+newapp/hello.py
+newapp.egg-info/PKG-INFO
+newapp.egg-info/SOURCES.txt
+newapp.egg-info/dependency_links.txt
+newapp.egg-info/entry_points.txt
+newapp.egg-info/not-zip-safe
+newapp.egg-info/top_level.txt
